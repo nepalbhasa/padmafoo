@@ -1,0 +1,4 @@
+baseURL = "https://buddhism.github.io/"
+languageCode = "en-us"
+title = "Buddhism Resources"
+theme = "ananke"

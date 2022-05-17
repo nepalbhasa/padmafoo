@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buddhism Resources</title>
-    <link>https://buddhism.github.io/</link>
+    <link>https://nepalbhasa.github.io/padmafoo/</link>
     <description>Recent content on Buddhism Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 May 2022 06:25:41 +0545</lastBuildDate>
     
-	<atom:link href="https://buddhism.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nepalbhasa.github.io/padmafoo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://buddhism.github.io/posts/my-first-post/</link>
+      <link>https://nepalbhasa.github.io/padmafoo/posts/my-first-post/</link>
       <pubDate>Tue, 17 May 2022 06:25:41 +0545</pubDate>
       
-      <guid>https://buddhism.github.io/posts/my-first-post/</guid>
+      <guid>https://nepalbhasa.github.io/padmafoo/posts/my-first-post/</guid>
       <description>Hello world. and sudhir</description>
     </item>
     
